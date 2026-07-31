@@ -5,8 +5,8 @@
 %global crate float-cmp
 
 Name:           rust-%{crate}
-Version:        0.6.0
-Release:        2%{?dist}
+Version:        0.10.0
+Release:        1%{?dist}
 Summary:        Floating point approximate comparison traits
 
 # Upstream license specification: MIT
